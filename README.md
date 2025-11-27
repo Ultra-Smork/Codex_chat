@@ -1,5 +1,5 @@
 # Codex_chat
 1. Запустить 2 сессии терминала(в frontend и backend директориях соответственно)
 2. в frontend сессии исполнить "npm run dev"
-3. в backend сессии исполнить "start backend.exe"()
+3. в backend сессии исполнить "start backend.exe"
 4. не трогать обе сессии до конца работы с приложением
